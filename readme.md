@@ -4,9 +4,9 @@
 
 ## My skills:
 
-![Java](https://img.shields.io/badge/-Java-darkred)
-![C++](https://img.shields.io/badge/-C++-darkred)
-![React](https://img.shields.io/badge/-React-darkred)
-![JavaScript](https://img.shields.io/badge/-JavaScipt-darkred)
-![TypeScript](https://img.shields.io/badge/-TypeScipt-darkred)
-![GDScript](https://img.shields.io/badge/-GDScipt-darkred)
+![Java](https://img.shields.io/badge/-Java-orange)
+![C++](https://img.shields.io/badge/-C++-orange)
+![React](https://img.shields.io/badge/-React-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScipt-orange)
+![TypeScript](https://img.shields.io/badge/-TypeScipt-orange)
+![GDScript](https://img.shields.io/badge/-GDScipt-orange)
