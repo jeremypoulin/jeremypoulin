@@ -1,6 +1,6 @@
 # My stats:
 
-![Top Langs](https://jeremypoulin.vercel.app/api/top-langs/?username=jeremypoulin&layout=compact&theme=dark&langs_count=6)
+![Top Langs](https://jeremypoulin.vercel.app/api/top-langs/?username=jeremypoulin&layout=compact&theme=dark&lang_count=6)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremypoulin)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremypoulin&layout=compact&theme=dark&lang_count=6)
 
