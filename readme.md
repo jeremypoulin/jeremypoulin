@@ -1,6 +1,7 @@
 # My stats:
 
 ![Top Languages](https://jeremypoulin.vercel.app/api/top-langs/?username=jeremypoulin&layout=compact&theme=dark&lang_count=6)
+![Top Languages](https://jeremypoulin.vercel.app/api/top-langs/?username=jeremypoulin&layout=compact&theme=dark&lang_count=6)
 
 ## My skills:
 
