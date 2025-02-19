@@ -2,7 +2,7 @@
 
 ###
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
