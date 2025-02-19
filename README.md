@@ -1,7 +1,8 @@
 <div align="center">
   <h1 align="center">Jeremy Poulin's GitHub</h1>
+  <a href="https://www.jeremypoulin.com">MY WEBSITE</a>
 </div>
-<img src="https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=jeremypoulin.com&url=https://www.jeremypoulin.com"/>
+
 
 ###
 
