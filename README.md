@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Jeremy Poulin's GitHub</h1>
-  <a href="https://www.jeremypoulin.com">My Website</a>
+  <button onclick="location.href='http://www.jeremypoulin.com'" type="button">
+         www.example.com</button>
 </div>
 
 ###
