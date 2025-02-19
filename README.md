@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Jeremy Poulin's GitHub</h1>
 </div>
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+<img src="https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me")](https://jeremypoulin.com)
 
 ###
 
