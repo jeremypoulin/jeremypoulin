@@ -65,7 +65,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremypoulin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jeremypoulin&theme=great-gatsby&hide_border=true" height="150" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=jeremypoulin&theme=great-gatsby&hide_border=true" height="150" alt="GitHub Streak"  />
   <img src="https://github-profile-trophy.vercel.app?username=jeremypoulin&theme=onedark&column=3&row=1&margin-w=8&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
