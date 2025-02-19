@@ -1,8 +1,7 @@
 <div align="center">
   <h1 align="center">Jeremy Poulin's GitHub</h1>
-  <button align="center" onclick="location.href='http://www.jeremypoulin.com'" type="button">
-         www.jeremypoulin.com</button>
 </div>
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 
 ###
 
