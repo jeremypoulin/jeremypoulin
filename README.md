@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Jeremy Poulin's GitHub</h1>
-  <a href="https://www.jeremypoulin.com"></a>
+  <a href="https://www.jeremypoulin.com">My Website</a>
 </div>
 
 ###
