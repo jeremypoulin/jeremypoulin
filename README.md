@@ -6,7 +6,7 @@
 
 
 ###
-<h1 align="center">🔌 Tech Stack</h1>
+<h1>🔌 Tech Stack</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -63,7 +63,7 @@
 </div>
 
 ###
-<h1 align="center">📊 GitHub Stats</h1>
+<h1>📊 GitHub Stats</h1>
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/github-contribution-grid-snake-dark.svg)
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h1 align="center">❤️ Socials</h1>
+<h1>❤️ Socials</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeremy-poulin-725938278" target="_blank">
