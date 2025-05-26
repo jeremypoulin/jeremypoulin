@@ -6,7 +6,6 @@
 
 <h2>Aspiring Hardware Engineer (with a little game dev on the side)</h2>
 
-###
 <h1>🔌 Tech Stack</h1>
 
 <div align="center">
