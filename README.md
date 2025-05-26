@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Jeremy Poulin's GitHub</h1>
+  <h1 align="center">Jeremy Poulin's Studio</h1>
   <a href="https://www.jeremypoulin.com"><img alt="Static Badge" src="https://img.shields.io/badge/jeremypoulin.com-website-yellow?style=for-the-badge&labelColor=black&color=yellow&link=https%3A%2F%2Fwww.jeremypoulin.com"></a>
   
 </div>
