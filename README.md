@@ -1,11 +1,11 @@
 <div align="center">
-  <h1 align="center">Jeremy Poulin's Studio</h1>
+  <h1 align="center">Jeremy Poulin's Workshop</h1>
   <a href="https://www.jeremypoulin.com"><img alt="Static Badge" src="https://img.shields.io/badge/jeremypoulin.com-website-yellow?style=for-the-badge&labelColor=black&color=yellow&link=https%3A%2F%2Fwww.jeremypoulin.com"></a>
   
 </div>
 
 <div align="center">
-<h3>Aspiring Hardware Engineer (with a little game dev on the side)</h3>
+<h3>Aspiring Hardware Engineer (with a side of game dev)</h3>
 </div>
 
 ###
