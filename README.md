@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Jeremy Poulin's Workshop</h1>
+  
   <a href="https://www.jeremypoulin.com"><img alt="Static Badge" src="https://img.shields.io/badge/jeremypoulin.com-website-yellow?style=for-the-badge&labelColor=black&color=yellow&link=https%3A%2F%2Fwww.jeremypoulin.com"></a>
   
 </div>
@@ -54,11 +54,7 @@
 ###
 <h1>📊 GitHub Stats</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/pacman-contribution-graph.svg">
-</picture>
+![GitHub Snake Animation](https://raw.githubusercontent.com/jeremypoulin/jeremypoulin/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
